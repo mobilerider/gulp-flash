@@ -32,7 +32,7 @@
   "dependencies": {
     "beepbeep": "^1.2.0",
     "gulp-util": "^3.0.1",
-    "swf-build": "^1.0.4",
+    "mobilerider/swf-build": "latest",
     "through2": "^0.6.3"
   },
   "devDependencies": {
